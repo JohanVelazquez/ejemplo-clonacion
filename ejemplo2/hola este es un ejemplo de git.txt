@@ -1,2 +1,2 @@
-hola este es un ejemplo de git
+hola este es un ejemplo de git para repaso de como clonar
 Johan Velazquez

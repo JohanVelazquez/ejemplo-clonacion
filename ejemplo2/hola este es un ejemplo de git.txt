@@ -1,2 +1,2 @@
 hola este es un ejemplo de git
-Alejandra
+Johan Velazquez
